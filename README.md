@@ -3,7 +3,7 @@
   
 Utilized Tech With Tim Youtube tutorial to learn the basics of the project and to . The link is below: 
   <ul>
-    <li>https://www.youtube.com/watch?v=vnd3RfeG3NM<li>
-   <li>https://www.youtube.com/watch?v=LSYj8GZMjWY<li>
-   <li>https://www.youtube.com/watch?v=_kOXGzkbnps<li>
+    <li>https://www.youtube.com/watch?v=vnd3RfeG3NM
+   <li>https://www.youtube.com/watch?v=LSYj8GZMjWY
+   <li>https://www.youtube.com/watch?v=_kOXGzkbnps
   <ul>
